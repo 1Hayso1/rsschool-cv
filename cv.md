@@ -1,5 +1,4 @@
 # Nikita Gridin
-
 ## Contact information
 * Location: Grodno, Belarus
 * Phone: +375(29)8691665
